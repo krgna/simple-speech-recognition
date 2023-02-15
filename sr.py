@@ -16,5 +16,4 @@ with sr.AudioFile(path) as source:
         print("Google Speech Recognition could not understand audio")
     except sr.RequestError as e:
         print("Could not request results from Google Speech Recognition service; {0}".format(e))
-        # translate described text to english
-        print("The audio file contains: " + r.recognize_google(audio, language="en-US"))
+        
