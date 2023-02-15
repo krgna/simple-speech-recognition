@@ -1,12 +1,10 @@
 # Google Speech Recognition
-Simple speech recognition with python, it takes input .wav  file and translates it to english.
-
+Simple speech recognition with python takes input .wav file and translates it to English.
 
 ## Getting Started
 
-First download and install python 3.11 and  simply install requirements, after installation 
-
-./python sr.py (it will ask for .wav filepath)
+First, download and install python 3.11 and simply install the requirements; after installation
+./python sr.py (it will ask for a .wav file path)
 
 ### Prerequisites
 
