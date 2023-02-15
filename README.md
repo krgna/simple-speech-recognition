@@ -15,6 +15,6 @@ First download and install python 3.11 and  simply install requirements, after i
 
 Requirements for the script
 - Python 3.11 (latest version.)
-- [Example 2](pip install SpeechRecognition)
+- Installing the SR package (pip install SpeechRecognition)
 
 
